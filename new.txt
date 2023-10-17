@@ -1,1 +1,2 @@
 content for new txt file
+2nd line
